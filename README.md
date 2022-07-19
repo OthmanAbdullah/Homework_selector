@@ -13,7 +13,11 @@ The main goal of this project is to help FP demonstrators in managing the homewo
 <h3><em> Building steps:</em> </h3>
 <ul>
 <li><code>abc = file_reader("./files")</code> : call the  <strong><em>file_reader</em></strong> function on the location of the files collected from the demonstrators</li>
-<li><code>abc.create_new_files(1)</code> : call <strong><em>create_new_files</em></strong> on the number of the week/homework number</li>
+<li><code>abc.create_new_files(1)</code> : call <strongc><em>create_new_files</em></strong> on the number of the week/homework number</li>
+<li> run the script using python interpruter : <code>python3 homework_selector.py</code>
 <ul>
+
+  <h3><em>Output of the script:</em> </h3>
+  The script will create a folder and will include the variant distributions of the homework in that directory
 
 
